@@ -1,5 +1,8 @@
 .head {
-    color: red;
+    font-family: 'Source Code Pro', monospace;
+}
+p{
+    font-family: 'Euphoria Script', cursive;
 }
 table{
     border: 1mm solid;
